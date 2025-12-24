@@ -1,0 +1,9 @@
+customtkinter
+mss
+Pillow
+pyyaml
+keyboard
+google-generativeai
+colorama
+pystray
+pywin32; sys_platform == 'win32'
